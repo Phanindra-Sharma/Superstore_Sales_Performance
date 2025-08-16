@@ -11,7 +11,7 @@ The dashboard provides a **360° view of business performance** with KPIs, trend
 - **Customer & Segment Analysis** — Top customers, repeat buyers, and profitability by segment  
 - **Regional & Market Analysis** — Performance across states & regions  
 - **Product & Category Performance** — Best vs. low-performing categories/products  
-- **Shipping Performance** — Delivery days, late shipments, and shipping cost analysis  
+- **Shipping Performance** — Delivery days, late shipments, and shipping cost analysis
 
 ---
 

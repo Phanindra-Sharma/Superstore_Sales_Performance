@@ -27,11 +27,11 @@ The dashboard provides a **360° view of business performance** with KPIs, trend
 ## 🖼️ Dashboard Preview
 | Overview | Profit & Discount | Customers |
 |----------|------------------|-----------|
-| ![Overview](Screenshots/Section1_overview.png) | ![Profit & Discount](Screenshots/Section2_profit_discount.png) | ![Customers](Screenshots/Section3_customers.png) |
+| ![Overview](Screenshots/Section1_Overview.png) | ![Profit & Discount](Screenshots/Section2_Profit_Discount.png) | ![Customers](Screenshots/Section3_Customer.png) |
 
 | Regions | Products | Shipping |
 |---------|----------|----------|
-| ![Regions](Screenshots/Section4_regions.png) | ![Products](Screenshots/Section5_products.png) | ![Shipping](Screenshots/Section6_shipping.png) |
+| ![Regions](Screenshots/Section4_Regional.png) | ![Products](Screenshots/Section5_Product.png) | ![Shipping](Screenshots/Section6_Shipping.png) |
 
 ---
 

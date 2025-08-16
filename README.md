@@ -28,7 +28,7 @@ The dashboard provides a **360° view of business performance** with KPIs, trend
 
 | Overview        | Profit & Discount                | Customers                         |
 | --------------- | -------------------------------- | --------------------------------- |
-| [1_Overview](<img width="1281" height="722" alt="Image" src="https://github.com/user-attachments/assets/5588e560-93ee-4883-9928-028b67ebed78" />) | [2_Product_&_Discount_Analysis](screenshots/2_Profit_&_Discount_Analysis.png) | [3_Customer_Segment_Analysis](screenshots/3_Customer_&_Segment_Analysis.png) |
+| [1_Overview](Screenshots/1_Overview.png) | [2_Product_&_Discount_Analysis](screenshots/2_Profit_&_Discount_Analysis.png) | [3_Customer_Segment_Analysis](screenshots/3_Customer_&_Segment_Analysis.png) |
 
 | Regions                          | Products                             | Shipping                              |
 | -------------------------------- | ------------------------------------ | ------------------------------------- |
